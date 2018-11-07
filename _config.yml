@@ -3,13 +3,13 @@ name: eva's bolg
 email: 515365161@qq.com
 author: zhang xin
 url: https://pimozid.github.io/
-resume_site: http://www.hifreud.com/Resume.io/
+resume_site: 
 github: https://github.com/pimozid/pimozid.github.io
 baseurl: ""
-description: Actually, less is more!
-meta_description: 章鑫;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
+description: 
+meta_description: 章鑫;个人博客;
 motto: It's our wits that make us men.
-banner: 学而不思则罔，思而不学则殆。
+banner: jkljlkjj。
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
