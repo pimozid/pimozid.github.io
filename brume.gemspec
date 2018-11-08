@@ -1,7 +1,7 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "brume"
+  spec.name          = "pimozid"
   spec.version       = "1.1.1"
   spec.authors       = ["Aigars Dzerviniks"]
   spec.email         = ["dzerviniks.aigars@outlook.com"]
