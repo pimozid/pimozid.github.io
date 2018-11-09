@@ -12,7 +12,7 @@ title:            'AAA'
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:        >
-关于[代码](/code)、[宇宙](/read)、[生活](/life)和[一切](/)。
+  关于[代码](/code)、[宇宙](/read)、[生活](/life)和[一切](/)。
 
 
 # Google Analytics tracking ID
