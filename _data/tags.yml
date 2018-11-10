@@ -12,20 +12,20 @@
 # ~~~
 
 life:
-  name: 123
+  name: 酒
   image: /public/images/yunshan.jpg
   color: '#f44336'
   description: |
-    「Simple living, noble thinking」。
+    「Simple living, noble thinking」
 
 code:
   name: 代码
   image: /public/images/mountains.jpg
   description: >
-    像建筑师、作曲家和画家一样，黑客们也在进行着富有创造性和挑战性的工作：他们将代码构筑成如今的互联网和计算机的世界。
+     关于艺术。
 
 read:
-  name: 读书
+  name: 宇宙
   image: /public/images/sierra.jpg
   description: >
-    安居不用架高堂，书中自有黄金屋。
+     一整个宇宙换一颗红豆。

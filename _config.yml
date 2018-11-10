@@ -15,8 +15,6 @@ description:        >
   关于[代码](/code)、[酒](/life)、[宇宙](/read)和[一切](/)。
 
 
-# Google Analytics tracking ID
-analytics:        'UA-32028925-2'
 
 # Fallback image and color if not overwritten for tag or post
 image:            /public/images/mountains.jpg
